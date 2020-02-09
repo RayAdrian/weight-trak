@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bluetooth_Test_ReadWrite</string>
+    <string name="send_Button">send</string>
+    <string name="send_Text">Command...</string>
+    <string name="rec_Text">Received Data</string>
+    <string name="status_Text">Disconnected</string>
+    <string name="connect_Button">Connect</string>
+    <string name="read_Button">Read</string>
+</resources>

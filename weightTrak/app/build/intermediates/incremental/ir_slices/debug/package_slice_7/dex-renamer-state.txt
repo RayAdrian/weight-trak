@@ -1,0 +1,4 @@
+#Fri May 18 10:54:38 PHT 2018
+base.0=/Users/raymundrafael/Desktop/WeightTrack_final/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

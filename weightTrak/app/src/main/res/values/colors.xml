@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC50C</color>
+    <color name="colorPrimaryDark">#E5B009</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="facebookBlue">#3F5996</color>
+    <color name="twitterBlue">#29C5F6</color>
+    <color name="googleRed">#D03E2F</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="weighttrakblue">#9EBBC4</color>
+    <color name="buttoncolor">#DF5E74</color>
+    <color name="dave2d">#b19cd9</color>
+    <color name="registercolor">#CFCFC4</color>
+    <color name="pastelblacktext">#33312d</color>
+    <color name="pastelblackbg">#33312d</color>
+    <color name="textColor">#6e6e6e</color>
+
+    <color name="dave2dgreen">#3e0e4c</color>
+</resources>

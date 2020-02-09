@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "988800275423",
+    "firebase_url": "https://weight-trak.firebaseio.com",
+    "project_id": "weight-trak",
+    "storage_bucket": "weight-trak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988800275423:android:478abe84befe3fa0",
+        "android_client_info": {
+          "package_name": "ph.edu.upd.eee.weighttrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988800275423-p58fpp25al2o0291eejvdrn7ojg45orn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ph.edu.upd.eee.weighttrack",
+            "certificate_hash": "a338c160e65925b74f799c5ba27f6ac787006393"
+          }
+        },
+        {
+          "client_id": "988800275423-tigistl0j9shmekhf5fp87tch5u8c7k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KJyLPHlTKkGeoAmFYdHCLjr9mL9yfsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988800275423-tigistl0j9shmekhf5fp87tch5u8c7k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

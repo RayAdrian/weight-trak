@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottombaritemone"
+        android:icon="@drawable/timeline"
+        android:title="Timeline"></item>
+
+    <item android:id="@+id/bottombaritemtwo"
+        android:icon="@drawable/device"
+        android:title="Device"></item>
+
+    <item android:id="@+id/bottombaritemthree"
+        android:icon="@drawable/achievement"
+        android:title="Goals"></item>
+
+    <item android:id="@+id/bottombaritemfour"
+        android:icon="@drawable/settings"
+        android:title="Settings"></item>
+
+
+
+
+
+
+
+
+
+</menu>

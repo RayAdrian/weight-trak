@@ -1,0 +1,4 @@
+#Fri May 18 02:36:21 CST 2018
+base.0=D\:\\Allen\\Documents\\AndroidApps\\Bluetooth_Test_Connect\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\39
+path.0=classes.dex
+renamed.0=classes.dex
